@@ -1,0 +1,170 @@
+h1{
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.System_Text
+{
+    padding-bottom: 30px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.Nomal_Text{
+    text-align: center;
+    line-height: 8px;
+    padding-bottom: 40px;
+}
+
+.Blue_Line
+{
+    background-color: blue;
+    width: 40px;
+    height: 2px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+
+}
+
+.Img_Text_Box{
+    overflow: hidden;
+}
+
+.Img_1
+{
+    float:left;
+    padding-left: 20%;
+    font-size: 14px;
+
+}
+
+.Img_2
+{
+    float:left;
+    padding-left: 10%;
+    font-size: 14px;
+   
+}
+.Img_3
+{
+    float:left;
+    padding-left: 10%;
+    font-size: 14px;
+
+}
+
+
+.Lab_Text{
+    overflow: hidden;
+}
+
+.Text_1
+{
+    float:left;
+    padding-left: 24%;
+    font-size: 14px;
+
+}
+
+.Text_2
+{
+    float:left;
+    padding-left: 19%;
+    font-size: 14px;
+   
+}
+.Text_3
+{
+    float:left;
+    padding-left: 14%;
+    font-size: 14px;
+
+}
+
+.Footer_Box{
+    margin-top: 40px;
+ 
+    width: 1024px;
+
+    line-height: 4px;
+    font-weight: bold;
+    overflow: hidden;   
+    font-size: 15px;
+}
+
+.One_Line
+{
+    overflow: hidden;   
+    /* margin-top: 40px; */
+    padding-top: 20px;
+}
+
+.Two_Line
+{
+    overflow: hidden;   
+    /* font-size: 10px; */
+    /* padding-top: 25px; */
+}
+
+.Three_Line
+{
+    overflow: hidden;   
+    /* font-size: 10px; */
+    /* padding-top: 20px; */
+}
+
+.Home_Text_1
+{
+    padding-left: 50px;
+    float:left;
+}
+
+.Home_Text_2
+{
+    padding-right: 800px;
+    float:right;
+}
+
+.Job_Text_1{
+    padding-left: 50px;
+    float:left;
+}
+
+.Job_Text_2{
+    padding-right: 785px;
+    float:right;
+}
+
+.Char_Text_1{
+    padding-left: 50px;
+    float:left;
+}
+
+.Char_Text_2{
+    padding-right: 800px;
+    float:right;
+}
+
+footer{
+    background-color: #F2F2F2;
+    height: 250px;
+}
+
+.Footer_Line
+{
+    background-color:#d8d8d8;
+    width: 800px;
+    height: 3px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.Footer_Text
+{
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 12px;
+}
